@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="5053" systemVersion="12F45" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" initialViewController="RIP-po-dgx">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="5053" systemVersion="12F45" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="NO" initialViewController="RIP-po-dgx">
     <dependencies>
         <deployment defaultVersion="1536" identifier="iOS"/>
         <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="3733"/>
@@ -127,12 +127,12 @@
                             <constraint firstItem="D7a-kU-sIs" firstAttribute="leading" secondItem="cp6-lZ-a9t" secondAttribute="leading" id="I8N-re-zwQ"/>
                             <constraint firstItem="vot-vr-03f" firstAttribute="leading" secondItem="cp6-lZ-a9t" secondAttribute="leading" id="KBv-PY-YLx"/>
                             <constraint firstAttribute="trailing" secondItem="0dH-sL-neW" secondAttribute="trailing" id="TOm-ta-pyH"/>
-                            <constraint firstItem="vot-vr-03f" firstAttribute="top" secondItem="yBe-16-sDN" secondAttribute="bottom" id="VHB-6i-oGx"/>
                             <constraint firstAttribute="trailing" secondItem="D7a-kU-sIs" secondAttribute="trailing" id="W44-Cb-iqA"/>
                             <constraint firstItem="D7a-kU-sIs" firstAttribute="top" secondItem="vot-vr-03f" secondAttribute="bottom" id="cDn-wY-pzq"/>
-                            <constraint firstItem="yeI-nh-85p" firstAttribute="top" secondItem="0dH-sL-neW" secondAttribute="bottom" id="cWG-iv-oFU"/>
                             <constraint firstItem="0dH-sL-neW" firstAttribute="top" secondItem="D7a-kU-sIs" secondAttribute="bottom" id="lDS-U5-qTE"/>
                             <constraint firstItem="0dH-sL-neW" firstAttribute="leading" secondItem="cp6-lZ-a9t" secondAttribute="leading" id="wz4-br-dYW"/>
+<!--                            <constraint firstItem="vot-vr-03f" firstAttribute="top" secondItem="yBe-16-sDN" secondAttribute="bottom" id="VHB-6i-oGx"/>-->
+<!--                            <constraint firstItem="yeI-nh-85p" firstAttribute="top" secondItem="0dH-sL-neW" secondAttribute="bottom" id="cWG-iv-oFU"/>-->
                         </constraints>
                     </view>
                     <connections>
